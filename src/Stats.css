@@ -23,3 +23,7 @@
     padding: 20px 20px 10px 20px;
     font-weight: 500;
 }
+
+.stats__lists {
+    border-bottom: 1px solid #42494D;
+}

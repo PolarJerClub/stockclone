@@ -4,7 +4,7 @@ import StatsRow from './StatsRow';
 import axios from "axios";
 import { db } from './firebase';
 
-const TOKEN = 'cj3ocg9r01qsj5njo390cj3ocg9r01qsj5njo39g';
+const TOKEN = 'cj46pkhr01qlttl4n50gcj46pkhr01qlttl4n510';
 const BASE_URL = "https://finnhub.io/api/v1/quote";
 
 
@@ -88,7 +88,7 @@ function Stats() {
                     ))}
                 </div>
             </div>
-            <div className='stats__header'>
+            <div className='stats__header stats__lists'>
                 <p>Lists</p>
             </div>
             <div className="stats__content">
